@@ -35,6 +35,10 @@ Para esta etapa, integrantes do grupo desenvolveram protótipos de telas com bas
 - Cadastro de notas efetuado
 - Cadastro de aluno 
 - Cadastro de aluno efetuado  
+- Consultar aluno
+- Turma
+- Cadastrar professor
 
 Link do mural para acesso às telas:
 https://app.mural.co/t/projetointegrador8205/m/projetointegrador8205/1715800237979/aa84dbb108daa8e7768527f3d37a11eb691bf9d6?sender=u71c25a3a1ba83f9de0f59969
+
